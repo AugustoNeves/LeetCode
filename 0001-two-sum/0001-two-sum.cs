@@ -4,9 +4,9 @@ public class Solution {
         for (int i = 0; i < nums.Length; i++){
 
             int complement = target - nums[i];
-            Console.WriteLine($"Target: {target} - num: {nums[i]} is equal {complement}");
+            //Console.WriteLine($"Target: {target} - num: {nums[i]} is equal {complement}");
             if (dic.ContainsKey(complement)) {
-                Console.WriteLine($"Num: {nums[i]} + complement: {complement} is equal target: {target}");
+                //Console.WriteLine($"Num: {nums[i]} + complement: {complement} is equal target: {target}");
                 return new int[] { dic[complement], i };
             }            
             dic[nums[i]] = i;
