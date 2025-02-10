@@ -19,11 +19,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/AugustoNeves/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/AugustoNeves/LeetCode/tree/master/0013-roman-to-integer) |
 | [0219-contains-duplicate-ii](https://github.com/AugustoNeves/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/AugustoNeves/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/AugustoNeves/LeetCode/tree/master/0013-roman-to-integer) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AugustoNeves/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/AugustoNeves/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -32,4 +34,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/AugustoNeves/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/AugustoNeves/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
