@@ -35,4 +35,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/AugustoNeves/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/AugustoNeves/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/AugustoNeves/LeetCode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/AugustoNeves/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
