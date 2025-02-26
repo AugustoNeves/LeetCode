@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AugustoNeves/LeetCode/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/AugustoNeves/LeetCode/tree/master/0075-sort-colors) |
 | [0219-contains-duplicate-ii](https://github.com/AugustoNeves/LeetCode/tree/master/0219-contains-duplicate-ii) |
 ## Hash Table
 |  |
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/AugustoNeves/LeetCode/tree/master/0075-sort-colors) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AugustoNeves/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0908-middle-of-the-linked-list](https://github.com/AugustoNeves/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Sliding Window
@@ -47,4 +49,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AugustoNeves/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/AugustoNeves/LeetCode/tree/master/0206-reverse-linked-list) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/AugustoNeves/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
