@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AugustoNeves/LeetCode/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/AugustoNeves/LeetCode/tree/master/0148-sort-list) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AugustoNeves/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0908-middle-of-the-linked-list](https://github.com/AugustoNeves/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Sliding Window
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AugustoNeves/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0148-sort-list](https://github.com/AugustoNeves/LeetCode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/AugustoNeves/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/AugustoNeves/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
@@ -53,4 +55,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AugustoNeves/LeetCode/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/AugustoNeves/LeetCode/tree/master/0148-sort-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/AugustoNeves/LeetCode/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/AugustoNeves/LeetCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
