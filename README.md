@@ -13,12 +13,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/AugustoNeves/LeetCode/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/AugustoNeves/LeetCode/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/AugustoNeves/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AugustoNeves/LeetCode/tree/master/0219-contains-duplicate-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AugustoNeves/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/AugustoNeves/LeetCode/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/AugustoNeves/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AugustoNeves/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/AugustoNeves/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## String
@@ -56,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0075-sort-colors](https://github.com/AugustoNeves/LeetCode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/AugustoNeves/LeetCode/tree/master/0148-sort-list) |
+| [0217-contains-duplicate](https://github.com/AugustoNeves/LeetCode/tree/master/0217-contains-duplicate) |
 ## Divide and Conquer
 |  |
 | ------- |
