@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/AugustoNeves/LeetCode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/AugustoNeves/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AugustoNeves/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [1603-running-sum-of-1d-array](https://github.com/AugustoNeves/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,4 +68,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/AugustoNeves/LeetCode/tree/master/0148-sort-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/AugustoNeves/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
