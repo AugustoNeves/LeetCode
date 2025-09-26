@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/AugustoNeves/LeetCode/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/AugustoNeves/LeetCode/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AugustoNeves/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/AugustoNeves/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AugustoNeves/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [1603-running-sum-of-1d-array](https://github.com/AugustoNeves/LeetCode/tree/master/1603-running-sum-of-1d-array) |
@@ -72,4 +73,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/AugustoNeves/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AugustoNeves/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
