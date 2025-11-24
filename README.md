@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0013-roman-to-integer](https://github.com/AugustoNeves/LeetCode/tree/master/0013-roman-to-integer) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AugustoNeves/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1768-merge-strings-alternately](https://github.com/AugustoNeves/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/AugustoNeves/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Two Pointers
 |  |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0148-sort-list](https://github.com/AugustoNeves/LeetCode/tree/master/0148-sort-list) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AugustoNeves/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0908-middle-of-the-linked-list](https://github.com/AugustoNeves/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [1768-merge-strings-alternately](https://github.com/AugustoNeves/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Sliding Window
 |  |
 | ------- |
