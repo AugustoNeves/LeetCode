@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/AugustoNeves/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AugustoNeves/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [1603-running-sum-of-1d-array](https://github.com/AugustoNeves/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [2239-find-closest-number-to-zero](https://github.com/AugustoNeves/LeetCode/tree/main/2239-find-closest-number-to-zero/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
